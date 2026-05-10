@@ -56,10 +56,6 @@ crashlytics-build.properties
 /Library/PackageCache/
 
 # Exclude the oversized local map mesh
-/My project/Assets/Art/Environment/Map/satandermap.obj
-/My project/Assets/Art/Environment/Map/satandermap.obj.meta
-
-# Ignore the whole local Map folder
 /My project/Assets/Art/Environment/Map/
 
 # Exclude the local plugin cache
@@ -67,5 +63,3 @@ crashlytics-build.properties
 
 # Keep serialized files with text format
 # *.asset files are usually important, so don't ignore them
-My project/Library/PackageCache/
-My project/Library/Artifacts/
