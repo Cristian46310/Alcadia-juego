@@ -56,7 +56,12 @@ crashlytics-build.properties
 /Library/PackageCache/
 
 # Exclude the oversized local map mesh
+
+# Exclude the oversized local map mesh
 /My project/Assets/Art/Environment/Map/
+
+# Ignore the whole Environment folder (we'll keep a zip backup instead)
+/My project/Assets/Art/Environment/
 
 # Exclude the local plugin cache
 /[Pp]ackages/manifest.json.lock
